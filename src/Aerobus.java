@@ -9,6 +9,6 @@ public class Aerobus extends Airplane {
 
     @Override
     public void printAirplaneInfo() {
-        System.out.println(type + "Airliner" + ", " + model + "Aerobus 737" + ", " + economy + "120");
+        System.out.println(type + " Airliner" + ", " + model + "Aerobus 737" + ", " + economy + "120");
     }
 }

@@ -8,6 +8,6 @@ public class Airplane {
     }
 
     public void printAirplaneInfo(){
-        System.out.println(type + "Jet" + ", " + model + "F-22 Raptor");
+        System.out.println(type + " Jet" + ", " + model + "F-22 Raptor");
     }
 }

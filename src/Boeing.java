@@ -11,7 +11,7 @@ public class Boeing extends Airplane {
 
     @Override
     public void printAirplaneInfo(){
-        System.out.println(type + "Airliner" + ", " + model + "Boeing 777," + ", "
+        System.out.println(type + " Airliner" + ", " + model + "Boeing 777" + ", "
                 + economy + "180" + ", " + business + "180");
     }
 }
